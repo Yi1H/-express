@@ -4,7 +4,11 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
+    "ejs": "^2.7.1",
     "express": "4.17.0",
-    "morgan": "^1.9.1"
+    "forecastio": "^2.0.0",
+    "jade": "^1.11.0",
+    "morgan": "^1.9.1",
+    "zippity-do-dah": "0.0.3"
   }
 }
